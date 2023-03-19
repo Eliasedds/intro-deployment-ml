@@ -2,6 +2,3 @@
     url = gs://model-dataset-tracker-curso/dataset
 ['remote "model-tracker"']
     url = gs://model-dataset-tracker-curso/model
-['remote "drive"']
-    url = gdrive://1NK8RXyJnkw6IHZ_0z9M3_1o_tSnXoZ_K
-    gdrive_acknowledge_abuse = true
