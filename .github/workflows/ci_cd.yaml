@@ -9,7 +9,7 @@ jobs:
       PROJECT_ID: ${{ secrets.PROJECT_ID}}
       SERVICE_NAME: ${{ secrets.SERVICE_NAME}}
       SERVICE_ACCOUNT_KEY: ${{ secrets.SERVICE_ACCOUNT_KEY}}
-  steps:
+    steps:
       - name: Checkout Repo
         uses: actions/checkout@v3
       - name: Set enviroment and bring the model
