@@ -1,0 +1,8 @@
+*.json
+*.csv
+*.pkl
+venv/
+.ipynb_checkpoints/
+report.txt
+*.png
+__pycache__/
